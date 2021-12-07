@@ -1,5 +1,4 @@
 package edu.temple.audiobb_assignment10
-//THIS ONE
 import android.util.Log
 import androidx.lifecycle.ViewModel
 import org.json.JSONArray
